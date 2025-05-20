@@ -1,0 +1,325 @@
+2025-05-15T04:50:44.941Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T04:50:44.957Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T04:51:31.325Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T04:51:31.332Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T04:51:32.892Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T04:51:32.899Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T04:52:17.009Z [ReshimgathiMarathaMatrimony] info: PUT /api/v1/update-registration-status 400 51 - 1.522 ms
+2025-05-15T04:52:28.946Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/validate-otp 400 38 - 655.061 ms
+2025-05-15T04:52:34.538Z [ReshimgathiMarathaMatrimony] info: GET /api/v1/send-otp/8459116253 200 48 - 435.972 ms
+2025-05-15T04:52:38.244Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/validate-otp 200 2276 - 150.651 ms
+2025-05-15T04:53:00.405Z [ReshimgathiMarathaMatrimony] info: PUT /api/v1/update-registration-status 400 56 - 3.008 ms
+2025-05-15T04:53:22.078Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T04:53:22.091Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T04:53:24.396Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T04:53:24.402Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T04:53:25.396Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T04:53:25.403Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T04:53:25.652Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T04:53:25.658Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T04:53:29.426Z [ReshimgathiMarathaMatrimony] info: PUT /api/v1/update-registration-status 404 172 - 2.092 ms
+2025-05-15T04:53:36.644Z [ReshimgathiMarathaMatrimony] info: PUT /api/v1/update-registration-status/gal 400 56 - 7.302 ms
+2025-05-15T04:54:05.147Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T04:54:05.154Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T04:54:07.638Z [ReshimgathiMarathaMatrimony] info: PUT /api/v1/update-registration-status/true 200 1837 - 18.978 ms
+2025-05-15T04:55:06.253Z [ReshimgathiMarathaMatrimony] info: PUT /api/v1/update-registration-status/false 200 1838 - 12.466 ms
+2025-05-15T04:55:25.356Z [ReshimgathiMarathaMatrimony] info: PUT /api/v1/update-registration-status/true 200 1837 - 7.552 ms
+2025-05-15T04:57:23.166Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T04:57:23.181Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T04:57:24.397Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T04:57:24.403Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T04:57:35.154Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T04:57:35.163Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T04:57:36.241Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T04:57:36.248Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T04:57:46.067Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T04:57:46.075Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T04:57:49.312Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T04:57:49.319Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:00:27.244Z [ReshimgathiMarathaMatrimony] error: jwt expired
+2025-05-15T05:00:27.248Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/accept-terms/gal 401 47 - 7.770 ms
+2025-05-15T05:00:39.933Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/accept-terms/gal 500 1496 - 3.416 ms
+2025-05-15T05:00:53.556Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:00:53.563Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:01:02.380Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/update-registration-status/true 200 1837 - 23.117 ms
+2025-05-15T05:01:27.455Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/accept-terms/gal 500 1496 - 4.039 ms
+2025-05-15T05:01:35.173Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/accept-terms/true 500 1496 - 1.451 ms
+2025-05-15T05:01:50.497Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:01:50.504Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:01:57.253Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/accept-terms/ta 400 56 - 4.418 ms
+2025-05-15T05:02:03.235Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/accept-terms/true 200 1839 - 16.240 ms
+2025-05-15T05:02:18.804Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/accept-terms/false 200 1840 - 10.596 ms
+2025-05-15T05:02:34.265Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/accept-terms/true 200 1839 - 5.607 ms
+2025-05-15T05:03:57.085Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:03:57.091Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:04:20.219Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:04:20.225Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:10:01.815Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:10:01.828Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:10:27.958Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:10:27.965Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:10:35.515Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:10:35.523Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:10:37.463Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:10:37.471Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:10:39.435Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:10:39.442Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:10:53.492Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:10:53.498Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:10:59.584Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:10:59.591Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:11:00.768Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:11:00.774Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:11:02.984Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:11:02.990Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:16:35.804Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/verification-status/gal 404 171 - 1.730 ms
+2025-05-15T05:16:40.011Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/verification-status/gal 404 171 - 1.624 ms
+2025-05-15T05:16:58.675Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/verification-status 404 167 - 0.597 ms
+2025-05-15T05:17:05.875Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/verification-status/gal 404 171 - 0.368 ms
+2025-05-15T05:19:20.708Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:19:20.716Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:19:20.949Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:19:20.956Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:19:26.853Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/verification-status/true 404 172 - 2.059 ms
+2025-05-15T05:20:21.387Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:20:21.393Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:20:23.106Z [ReshimgathiMarathaMatrimony] error: jwt expired
+2025-05-15T05:20:23.110Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/verification-status/true 401 47 - 4.427 ms
+2025-05-15T05:20:28.599Z [ReshimgathiMarathaMatrimony] error: jwt expired
+2025-05-15T05:20:28.600Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/verification-status/gal 401 47 - 2.959 ms
+2025-05-15T05:20:32.356Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/validate-otp 200 2275 - 301.460 ms
+2025-05-15T05:21:10.709Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/verification-status/gal 400 56 - 0.801 ms
+2025-05-15T05:21:16.834Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/verification-status/true 200 1836 - 20.659 ms
+2025-05-15T05:21:21.730Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/verification-status/false 200 1837 - 7.577 ms
+2025-05-15T05:21:26.298Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/verification-status/true 200 1836 - 4.614 ms
+2025-05-15T05:22:26.148Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:22:26.154Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:22:51.691Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T05:22:51.697Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T05:28:58.386Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/membership-status/gal 400 56 - 10.108 ms
+2025-05-15T05:29:06.039Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/membership-status/true 200 1835 - 24.162 ms
+2025-05-15T12:12:56.289Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:12:56.304Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:12:56.833Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:12:56.839Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:12:59.368Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload 404 153 - 5.182 ms
+2025-05-15T12:14:27.028Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:14:27.040Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:14:31.486Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:14:31.498Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:14:32.301Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:14:32.311Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:14:33.482Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:14:33.507Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:14:34.117Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:14:34.125Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:14:37.198Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload 500 729 - 944.369 ms
+2025-05-15T12:17:03.698Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload 500 793 - 289.065 ms
+2025-05-15T12:17:19.919Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload 200 189 - 311.072 ms
+2025-05-15T12:23:51.664Z [ReshimgathiMarathaMatrimony] info: DELETE /api/v1/delete 200 53 - 156.716 ms
+2025-05-15T12:25:26.652Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:25:26.666Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:25:52.550Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:25:52.560Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:26:37.145Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:26:37.158Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:26:44.901Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:26:44.911Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:26:46.275Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:26:46.288Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:26:54.028Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:26:54.037Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:26:55.091Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:26:55.100Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:27:34.942Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:27:34.951Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:27:36.113Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:27:36.121Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:27:44.216Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:27:44.224Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:27:54.317Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:27:54.328Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:32:09.961Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:32:09.971Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:32:11.836Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:32:11.845Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:32:13.745Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload-images 400 51 - 1.379 ms
+2025-05-15T12:32:24.947Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/validate-otp 400 38 - 643.318 ms
+2025-05-15T12:32:34.037Z [ReshimgathiMarathaMatrimony] info: GET /api/v1/send-otp/8459116253 200 48 - 320.144 ms
+2025-05-15T12:32:37.959Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/validate-otp 200 2273 - 134.744 ms
+2025-05-15T12:32:58.904Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload-images 500 60 - 147.211 ms
+2025-05-15T12:33:25.674Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:33:25.683Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:33:33.492Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:33:33.500Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:33:36.560Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:33:36.569Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:33:37.549Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:33:37.558Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:33:39.430Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:33:39.439Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:33:51.193Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:33:51.205Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:33:51.825Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:33:51.834Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:33:54.826Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload-images 200 213 - 419.714 ms
+2025-05-15T12:34:31.833Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload-images 500 118 - 21.042 ms
+2025-05-15T12:34:53.262Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload-images 200 484 - 449.272 ms
+2025-05-15T12:36:31.882Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload-documents 400 51 - 4.355 ms
+2025-05-15T12:36:46.468Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload-documents 200 344 - 642.489 ms
+2025-05-15T12:37:58.362Z [ReshimgathiMarathaMatrimony] info: DELETE /api/v1/delete 400 51 - 3.544 ms
+2025-05-15T12:38:10.986Z [ReshimgathiMarathaMatrimony] info: DELETE /api/v1/delete 200 53 - 152.305 ms
+2025-05-15T12:41:29.520Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:41:29.536Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:41:40.294Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:41:40.305Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:42:24.974Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:42:24.986Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:42:45.174Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:42:45.185Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:43:03.022Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:43:03.033Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:43:23.805Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:43:23.815Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:43:30.976Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:43:30.991Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:43:39.660Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:43:39.668Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:44:39.738Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload-documents 500 1407 - 10.713 ms
+2025-05-15T12:45:57.465Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:45:57.476Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:45:58.322Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:45:58.333Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:46:01.704Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload-documents 200 373 - 430.966 ms
+2025-05-15T12:46:56.364Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:46:56.377Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:48:00.808Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:48:00.820Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:48:24.503Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:48:24.513Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:48:28.435Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:48:28.447Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:48:34.343Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:48:34.353Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:48:36.305Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:48:36.315Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:48:37.476Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:48:37.491Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:49:22.210Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:49:22.220Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:49:30.995Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:49:31.009Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:49:37.209Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:49:37.218Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:49:46.537Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:49:46.551Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:50:07.452Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:50:07.462Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:50:50.625Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:50:50.636Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:51:30.380Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:51:30.399Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:51:49.328Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:51:49.338Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:51:51.868Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:51:51.878Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:51:57.607Z [ReshimgathiMarathaMatrimony] error: jwt expired
+2025-05-15T12:51:57.609Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload-documents 401 47 - 4.761 ms
+2025-05-15T12:52:02.276Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/validate-otp 200 2273 - 351.725 ms
+2025-05-15T12:52:24.621Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload-documents 200 2162 - 587.721 ms
+2025-05-15T12:53:00.196Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/upload-images 200 2578 - 450.102 ms
+2025-05-15T12:54:03.024Z [ReshimgathiMarathaMatrimony] error: jwt expired
+2025-05-15T12:54:03.027Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/registration-status/gal 401 47 - 5.135 ms
+2025-05-15T12:54:07.748Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/registration-status/gal 400 56 - 1.412 ms
+2025-05-15T12:54:13.773Z [ReshimgathiMarathaMatrimony] info: PATCH /api/v1/registration-status/true 200 2577 - 15.687 ms
+2025-05-15T12:55:16.076Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T12:55:16.091Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T12:55:31.661Z [ReshimgathiMarathaMatrimony] info: PUT /api/v1/personal-info 200 2577 - 57.479 ms
+2025-05-15T12:55:49.863Z [ReshimgathiMarathaMatrimony] info: PUT /api/v1/personal-info 200 2577 - 3.950 ms
+2025-05-15T13:01:29.818Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:01:29.845Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:03:12.486Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:03:12.502Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:03:23.793Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:03:23.806Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:03:25.711Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:03:25.720Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:04:57.604Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:04:57.615Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:05:25.983Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:05:25.993Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:06:00.611Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:06:00.621Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:06:14.234Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:06:14.244Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:07:24.892Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:07:24.902Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:07:40.011Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:07:40.020Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:07:41.571Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:07:41.580Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:15:23.622Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:15:23.637Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:15:25.319Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:15:25.328Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:15:35.297Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:15:35.308Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:15:59.828Z [ReshimgathiMarathaMatrimony] info: GET /api/v1/send-otp/8459116253 200 48 - 400.543 ms
+2025-05-15T13:16:02.615Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/validate-otp 500 48 - 170.735 ms
+2025-05-15T13:16:20.828Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:16:20.842Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:16:33.974Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:16:33.983Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:16:36.128Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:16:36.138Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:16:38.618Z [ReshimgathiMarathaMatrimony] error: session.save is not a function
+2025-05-15T13:16:38.620Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/validate-otp 500 48 - 192.620 ms
+2025-05-15T13:17:23.432Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:17:23.444Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:17:31.169Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:17:31.182Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:17:33.591Z [ReshimgathiMarathaMatrimony] info: POST /api/v1/validate-otp 200 3015 - 465.202 ms
+2025-05-15T13:20:11.332Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:20:11.354Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:21:43.024Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:21:43.038Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:23:26.672Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:23:26.681Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:23:28.535Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:23:28.544Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:24:10.129Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:24:10.143Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:27:45.338Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:27:45.349Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:28:43.553Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:28:43.562Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:28:44.125Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:28:44.136Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:30:59.278Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:30:59.287Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:31:58.078Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:31:58.089Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:32:00.760Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:32:00.769Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:32:11.627Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:32:11.636Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:32:13.988Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:32:13.998Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:32:16.505Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:32:16.514Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:32:20.756Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:32:20.765Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:34:09.678Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:34:09.687Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:34:55.104Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:34:55.114Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:35:30.800Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:35:30.808Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:35:44.203Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:35:44.225Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:36:03.955Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:36:03.965Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:38:20.656Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:38:20.671Z [ReshimgathiMarathaMatrimony] info: MongoDB connected
+2025-05-15T13:39:24.342Z [ReshimgathiMarathaMatrimony] info: Server is listening on port 3000
+2025-05-15T13:39:24.351Z [ReshimgathiMarathaMatrimony] info: MongoDB connected

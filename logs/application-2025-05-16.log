@@ -1,0 +1,276 @@
+2025-05-16T06:12:56.143Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:12:56.183Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:12:57.205Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:12:57.213Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:13:05.071Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:13:05.079Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:15:24.016Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:15:24.027Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:16:04.234Z [INSTAGRAM] info: POST /api/v1/sign-in 404 154 - 1.034 ms
+2025-05-16T06:16:45.078Z [INSTAGRAM] info: POST /api/v1/sign-in 404 154 - 1.252 ms
+2025-05-16T06:16:54.605Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:16:54.613Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:16:56.504Z [INSTAGRAM] info: POST /api/v1/sign-in 400 58 - 1.237 ms
+2025-05-16T06:17:08.948Z [INSTAGRAM] info: POST /api/v1/sign-in 500 1427 - 1.953 ms
+2025-05-16T06:17:20.259Z [INSTAGRAM] info: POST /api/v1/sign-in 500 1427 - 1.226 ms
+2025-05-16T06:17:45.694Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:17:45.702Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:17:50.113Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:17:50.123Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:19:20.408Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:19:20.419Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:19:35.719Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:19:35.729Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:19:38.383Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:19:38.392Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:19:53.251Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:19:53.263Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:20:05.073Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:20:05.082Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:20:25.620Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:20:25.628Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:20:36.023Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:20:36.038Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:20:38.151Z [INSTAGRAM] info: POST /api/v1/sign-in 400 51 - 4.193 ms
+2025-05-16T06:20:46.917Z [INSTAGRAM] info: POST /api/v1/sign-in 400 51 - 0.340 ms
+2025-05-16T06:22:20.669Z [INSTAGRAM] info: POST /api/v1/sign-in 404 41 - 29.229 ms
+2025-05-16T06:23:09.695Z [INSTAGRAM] info: POST /api/v1/sign-up 500 1428 - 3.328 ms
+2025-05-16T06:23:19.024Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:23:19.042Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:23:20.630Z [INSTAGRAM] info: POST /api/v1/sign-up 400 51 - 1.288 ms
+2025-05-16T06:23:37.996Z [INSTAGRAM] error: Parameter "filter" to findOneAndUpdate() must be an object, got "987654321" (type string)
+2025-05-16T06:23:37.997Z [INSTAGRAM] info: POST /api/v1/sign-up 500 48 - 107.214 ms
+2025-05-16T06:25:13.781Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:25:13.789Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:25:16.520Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:25:16.529Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:25:25.307Z [INSTAGRAM] error: E11000 duplicate key error collection: instagram.users index: email_1 dup key: { email: "aditya@gmail.com" }
+2025-05-16T06:25:25.309Z [INSTAGRAM] info: POST /api/v1/sign-up 409 46 - 102.664 ms
+2025-05-16T06:25:31.638Z [INSTAGRAM] error: Cannot access 'password' before initialization
+2025-05-16T06:25:31.638Z [INSTAGRAM] info: POST /api/v1/sign-in 500 48 - 10.864 ms
+2025-05-16T06:26:08.338Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:26:08.347Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:26:14.789Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:26:14.798Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:26:17.848Z [INSTAGRAM] error: use is not defined
+2025-05-16T06:26:17.849Z [INSTAGRAM] info: POST /api/v1/sign-in 500 48 - 99.475 ms
+2025-05-16T06:26:49.730Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:26:49.739Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:26:50.741Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:26:50.749Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:26:52.742Z [INSTAGRAM] error: Parameter "filter" to findOneAndUpdate() must be an object, got "987654321" (type string)
+2025-05-16T06:26:52.744Z [INSTAGRAM] info: POST /api/v1/sign-in 500 48 - 103.286 ms
+2025-05-16T06:28:07.650Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:28:07.658Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:28:16.547Z [INSTAGRAM] error: Parameter "filter" to findOneAndUpdate() must be an object, got "987654321" (type string)
+2025-05-16T06:28:16.548Z [INSTAGRAM] info: POST /api/v1/sign-in 500 48 - 103.909 ms
+2025-05-16T06:29:02.729Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:29:02.738Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:29:05.411Z [INSTAGRAM] info: POST /api/v1/sign-in 200 742 - 94.089 ms
+2025-05-16T06:29:17.941Z [INSTAGRAM] error: E11000 duplicate key error collection: instagram.users index: email_1 dup key: { email: "aditya@gmail.com" }
+2025-05-16T06:29:17.942Z [INSTAGRAM] info: POST /api/v1/sign-up 409 46 - 103.351 ms
+2025-05-16T06:29:30.780Z [INSTAGRAM] error: E11000 duplicate key error collection: instagram.users index: userName_1 dup key: { userName: null }
+2025-05-16T06:29:30.780Z [INSTAGRAM] info: POST /api/v1/sign-up 409 46 - 97.616 ms
+2025-05-16T06:29:36.030Z [INSTAGRAM] error: E11000 duplicate key error collection: instagram.users index: userName_1 dup key: { userName: null }
+2025-05-16T06:29:36.031Z [INSTAGRAM] info: POST /api/v1/sign-up 409 46 - 100.564 ms
+2025-05-16T06:30:36.656Z [INSTAGRAM] error: E11000 duplicate key error collection: instagram.users index: userName_1 dup key: { userName: null }
+2025-05-16T06:30:36.657Z [INSTAGRAM] info: POST /api/v1/sign-up 409 46 - 95.191 ms
+2025-05-16T06:31:29.117Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:31:29.126Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:31:33.007Z [INSTAGRAM] error: E11000 duplicate key error collection: instagram.users index: userName_1 dup key: { userName: null }
+2025-05-16T06:31:33.009Z [INSTAGRAM] info: POST /api/v1/sign-up 409 46 - 100.325 ms
+2025-05-16T06:31:54.009Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:31:54.020Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:31:56.409Z [INSTAGRAM] error: E11000 duplicate key error collection: instagram.users index: userName_1 dup key: { userName: null }
+2025-05-16T06:31:56.411Z [INSTAGRAM] info: POST /api/v1/sign-up 409 46 - 100.873 ms
+2025-05-16T06:35:57.777Z [INSTAGRAM] info: POST /api/v1/sign-up 201 779 - 200.748 ms
+2025-05-16T06:36:12.949Z [INSTAGRAM] info: POST /api/v1/sign-up 201 779 - 103.429 ms
+2025-05-16T06:36:19.589Z [INSTAGRAM] info: POST /api/v1/sign-up 201 779 - 98.042 ms
+2025-05-16T06:36:40.202Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:36:40.217Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:37:10.356Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:37:10.366Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:37:16.755Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:37:16.763Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:37:25.999Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:37:26.009Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:37:34.607Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:37:34.615Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:37:38.050Z [INSTAGRAM] info: POST /api/v1/sign-up 201 779 - 105.271 ms
+2025-05-16T06:37:50.074Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:37:50.082Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:37:53.339Z [INSTAGRAM] info: POST /api/v1/sign-up 201 779 - 104.076 ms
+2025-05-16T06:38:04.678Z [INSTAGRAM] error: E11000 duplicate key error collection: instagram.users index: email_1 dup key: { email: "dev.nirajpatil@gmail.com" }
+2025-05-16T06:38:04.679Z [INSTAGRAM] info: POST /api/v1/sign-up 409 46 - 98.951 ms
+2025-05-16T06:38:09.561Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:38:09.569Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:38:11.526Z [INSTAGRAM] error: E11000 duplicate key error collection: instagram.users index: email_1 dup key: { email: "dev.nirajpatil@gmail.com" }
+2025-05-16T06:38:11.529Z [INSTAGRAM] info: POST /api/v1/sign-up 409 46 - 98.578 ms
+2025-05-16T06:38:20.618Z [INSTAGRAM] info: POST /api/v1/sign-up 201 779 - 109.773 ms
+2025-05-16T06:38:23.664Z [INSTAGRAM] error: E11000 duplicate key error collection: instagram.users index: email_1 dup key: { email: "dev.adityaaher@gmail.com" }
+2025-05-16T06:38:23.664Z [INSTAGRAM] info: POST /api/v1/sign-up 409 46 - 99.498 ms
+2025-05-16T06:38:44.418Z [INSTAGRAM] info: POST /api/v1/sign-in 404 41 - 8.250 ms
+2025-05-16T06:38:49.893Z [INSTAGRAM] info: POST /api/v1/sign-in 200 772 - 103.041 ms
+2025-05-16T06:39:14.420Z [INSTAGRAM] info: POST /api/v1/sign-out 500 1433 - 2.415 ms
+2025-05-16T06:39:19.342Z [INSTAGRAM] info: POST /api/v1/sign-out 500 1433 - 0.756 ms
+2025-05-16T06:39:54.071Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:39:54.079Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:39:57.002Z [INSTAGRAM] info: POST /api/v1/sign-out 400 51 - 1.302 ms
+2025-05-16T06:40:19.674Z [INSTAGRAM] info: POST /api/v1/sign-out 200 50 - 7.249 ms
+2025-05-16T06:40:24.773Z [INSTAGRAM] info: POST /api/v1/sign-in 200 772 - 107.193 ms
+2025-05-16T06:40:30.204Z [INSTAGRAM] info: POST /api/v1/sign-out 200 50 - 2.875 ms
+2025-05-16T06:40:33.620Z [INSTAGRAM] info: POST /api/v1/sign-in 200 772 - 102.992 ms
+2025-05-16T06:40:56.056Z [INSTAGRAM] info: POST /api/v1/sign-out 200 50 - 3.778 ms
+2025-05-16T06:41:24.225Z [INSTAGRAM] info: POST /api/v1/sign-in 200 772 - 99.100 ms
+2025-05-16T06:41:41.621Z [INSTAGRAM] info: POST /api/v1/sign-in 200 772 - 99.905 ms
+2025-05-16T06:41:58.049Z [INSTAGRAM] info: POST /api/v1/sign-in 200 772 - 101.857 ms
+2025-05-16T06:42:47.238Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:42:47.249Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:43:20.833Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:43:20.843Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:43:22.049Z [INSTAGRAM] info: POST /api/v1/refresh-token 400 51 - 1.464 ms
+2025-05-16T06:43:35.114Z [INSTAGRAM] error: Bad "options.expiresIn" option the payload already has an "exp" property.
+2025-05-16T06:43:35.114Z [INSTAGRAM] info: POST /api/v1/refresh-token 500 48 - 13.082 ms
+2025-05-16T06:44:35.295Z [INSTAGRAM] error: Bad "options.expiresIn" option the payload already has an "exp" property.
+2025-05-16T06:44:35.300Z [INSTAGRAM] info: POST /api/v1/refresh-token 500 48 - 8.480 ms
+2025-05-16T06:48:26.415Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:48:26.423Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:48:34.699Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:48:34.708Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:48:38.928Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 449 - 20.597 ms
+2025-05-16T06:48:57.764Z [INSTAGRAM] error: invalid signature
+2025-05-16T06:48:57.766Z [INSTAGRAM] info: POST /api/v1/refresh-token 500 48 - 1.999 ms
+2025-05-16T06:49:38.675Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:49:38.686Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:49:39.970Z [INSTAGRAM] error: invalid signature
+2025-05-16T06:49:39.972Z [INSTAGRAM] info: POST /api/v1/refresh-token 500 48 - 3.236 ms
+2025-05-16T06:49:53.304Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:49:53.312Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:49:55.374Z [INSTAGRAM] error: invalid signature
+2025-05-16T06:49:55.379Z [INSTAGRAM] info: POST /api/v1/refresh-token 500 48 - 7.196 ms
+2025-05-16T06:50:14.109Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:50:14.119Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:50:16.334Z [INSTAGRAM] error: invalid signature
+2025-05-16T06:50:16.336Z [INSTAGRAM] info: POST /api/v1/refresh-token 500 48 - 4.705 ms
+2025-05-16T06:51:10.839Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:51:10.849Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:51:11.725Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:51:11.734Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:51:34.468Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:51:34.476Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:51:43.268Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:51:43.276Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:51:44.530Z [INSTAGRAM] info: POST /api/v1/refresh-token 401 40 - 8.352 ms
+2025-05-16T06:51:49.665Z [INSTAGRAM] info: POST /api/v1/refresh-token 401 40 - 1.751 ms
+2025-05-16T06:52:29.257Z [INSTAGRAM] info: POST /api/v1/registration 404 159 - 3.542 ms
+2025-05-16T06:52:33.219Z [INSTAGRAM] info: POST /api/v1/registration 404 159 - 1.031 ms
+2025-05-16T06:53:09.304Z [INSTAGRAM] info: POST /api/v1/registration 404 159 - 0.385 ms
+2025-05-16T06:53:20.317Z [INSTAGRAM] info: PATCH /api/v1/registration 500 1450 - 3.090 ms
+2025-05-16T06:53:40.340Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:53:40.349Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:53:42.332Z [INSTAGRAM] info: PATCH /api/v1/registration 400 51 - 7.001 ms
+2025-05-16T06:54:47.926Z [INSTAGRAM] info: PATCH /api/v1/registration 404 41 - 15.111 ms
+2025-05-16T06:55:09.514Z [INSTAGRAM] info: POST /api/v1/sign-in 200 772 - 107.972 ms
+2025-05-16T06:55:28.341Z [INSTAGRAM] info: PATCH /api/v1/registration 404 41 - 3.800 ms
+2025-05-16T06:55:42.730Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:55:42.738Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:55:47.668Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:55:47.676Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:55:49.393Z [INSTAGRAM] info: PATCH /api/v1/registration 404 41 - 11.682 ms
+2025-05-16T06:56:13.856Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:56:13.865Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:56:14.722Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:56:14.730Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:56:15.111Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:56:15.119Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:56:16.691Z [INSTAGRAM] info: PATCH /api/v1/registration 200 289 - 15.870 ms
+2025-05-16T06:56:27.662Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:56:27.670Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:56:51.018Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:56:51.026Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:56:52.860Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:56:52.899Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:58:32.891Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:58:32.900Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T06:58:44.188Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T06:58:44.198Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:01:36.646Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:01:36.658Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:03:38.411Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:03:38.421Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:04:11.045Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:04:11.056Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:05:06.895Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:05:06.905Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:06:39.313Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:06:39.324Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:07:09.085Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:07:09.097Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:07:10.732Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:07:10.740Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:07:14.255Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:07:14.262Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:07:39.649Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:07:39.657Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:08:36.696Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:08:36.708Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:08:41.837Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:08:41.848Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:09:19.659Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:09:19.669Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:09:29.536Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:09:29.544Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:15:27.861Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:15:27.877Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:16:26.606Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:16:26.617Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:16:27.509Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:16:27.538Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:20:47.273Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:20:47.288Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:46:57.787Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:46:57.802Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:47:00.443Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:47:00.457Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:47:05.928Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:47:05.936Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:47:34.795Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:47:34.803Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:48:05.659Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:48:05.668Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:48:14.389Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:48:14.398Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:48:49.563Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:48:49.572Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T07:48:51.878Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T07:48:51.888Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T08:17:53.622Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T08:17:53.637Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T09:12:38.589Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T09:12:38.601Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T09:12:54.063Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T09:12:54.070Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T09:13:07.761Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T09:13:07.769Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T09:13:19.431Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T09:13:19.441Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T09:13:49.150Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T09:13:49.161Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T09:14:31.754Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T09:14:31.765Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T09:15:49.325Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T09:15:49.338Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T09:17:10.940Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T09:17:10.965Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T09:23:39.355Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T09:23:39.372Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T09:23:42.174Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T09:23:42.181Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T09:23:42.669Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-16T09:23:42.675Z [INSTAGRAM] info: MongoDB connected
+2025-05-16T09:23:45.071Z [INSTAGRAM] error: jwt expired
+2025-05-16T09:23:45.075Z [INSTAGRAM] info: POST /api/v1/upload-images 401 47 - 6.084 ms
+2025-05-16T09:23:56.870Z [INSTAGRAM] info: POST /api/v1/sign-in 200 841 - 119.748 ms
+2025-05-16T09:24:20.821Z [INSTAGRAM] info: POST /api/v1/upload-images 500 212 - 25.149 ms
+2025-05-16T09:25:46.869Z [INSTAGRAM] info: POST /api/v1/upload-images 201 159 - 193.091 ms
+2025-05-16T09:27:15.450Z [INSTAGRAM] info: GET /favicon.ico 404 150 - 1.475 ms
