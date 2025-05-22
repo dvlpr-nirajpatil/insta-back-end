@@ -89,10 +89,12 @@ module.exports.refreshToken = async function (req, res) {
 
   try {
     let user = await jwt.verifyRefreshToken(token);
+
     if (!user) {
       return response(res, 409, "Invalid token");
     }
     const session = await Session.findOne({ token });
+
     if (!session) {
       return response(res, 409, "Session Expired");
     }
@@ -102,8 +104,8 @@ module.exports.refreshToken = async function (req, res) {
     }
 
     const payload = {
-      id: user.id,
-      email: user.email, // include whatever fields you want to store
+      userId: user.userId,
+      email: user.email,
     };
 
     const accessToken = jwt.generateAccessToken(payload);

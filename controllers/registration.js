@@ -8,16 +8,20 @@ module.exports.storeRegistration = async function (req, res) {
     return response(
       res,
       400,
-      `${(userId, name, userName, bio)}All fields are required`
+      `${(name, userName, bio)} All fields are required`
     );
   }
 
   try {
-    const user = await User.findByIdAndUpdate(req.user.userId, {
-      name,
-      userName,
-      bio,
-    });
+    const user = await User.findByIdAndUpdate(
+      req.user.userId,
+      {
+        name,
+        userName,
+        bio,
+      },
+      { new: true }
+    );
     if (!user) {
       return response(res, 404, "User not found");
     }
@@ -26,5 +30,24 @@ module.exports.storeRegistration = async function (req, res) {
   } catch (error) {
     logger.error(error);
     return response(res, 500, "Internal Server Error");
+  }
+};
+
+module.exports.checkUsernameAvailable = async function (req, res) {
+  const userName = req.params.userName;
+  if (!userName) {
+    return response(res, 400, "username is required");
+  }
+
+  try {
+    let user = await User.findOne({ userName: userName });
+
+    if (user) {
+      return response(res, 404, "Username alredy exists");
+    }
+    return response(res, 200, "Username available");
+  } catch (e) {
+    logger.error(e);
+    return response(res, 500, "INTERNAL SERVER ERROR");
   }
 };

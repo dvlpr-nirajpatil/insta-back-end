@@ -14,6 +14,8 @@ const authRoutes = require("./routes/auth");
 const registrationRoutes = require("./routes/registration");
 const uploadRoutes = require("./routes/upload");
 const postRoutes = require("./routes/posts");
+const chatRoutes = require("./routes/chat");
+const messageRoutes = require("./routes/messages");
 
 app.use("/uploads", express.static(path.join(__dirname, "uploads"))); // ex
 app.use(winstonMorgan(logger));
@@ -21,6 +23,8 @@ app.use("/api/v1/", authRoutes);
 app.use("/api/v1/", registrationRoutes);
 app.use("/api/v1/", uploadRoutes);
 app.use("/api/v1/", postRoutes);
+app.use("/api/v1/", chatRoutes);
+app.use("/api/v1/", messageRoutes);
 
 app.get("/", (req, res) => {
   return response(res, 200, "Welcome to Reshimgathi");

@@ -8,6 +8,7 @@ const userSchema = mongoose.Schema(
     name: { type: String },
     userName: { type: String },
     bio: { type: String },
+    profilePic: String
   },
   {
     timestamps: true,

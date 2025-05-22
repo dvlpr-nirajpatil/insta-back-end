@@ -1,0 +1,148 @@
+2025-05-22T06:48:09.556Z [INSTAGRAM] info: POST /api/v1/sign-in 404 41 - 12.867 ms
+2025-05-22T06:48:11.201Z [INSTAGRAM] info: POST /api/v1/sign-in 404 41 - 2.679 ms
+2025-05-22T06:48:16.079Z [INSTAGRAM] error: E11000 duplicate key error collection: instagram.users index: email_1 dup key: { email: "dev.kaledarshan@gmail.com" }
+2025-05-22T06:48:16.080Z [INSTAGRAM] info: POST /api/v1/sign-up 409 46 - 85.582 ms
+2025-05-22T06:48:17.080Z [INSTAGRAM] error: E11000 duplicate key error collection: instagram.users index: email_1 dup key: { email: "dev.kaledarshan@gmail.com" }
+2025-05-22T06:48:17.081Z [INSTAGRAM] info: POST /api/v1/sign-up 409 46 - 78.484 ms
+2025-05-22T06:48:24.273Z [INSTAGRAM] info: POST /api/v1/sign-out 200 50 - 5.547 ms
+2025-05-22T07:19:22.441Z [INSTAGRAM] info: POST /api/v1/refresh-token 401 40 - 13.439 ms
+2025-05-22T07:19:29.854Z [INSTAGRAM] info: POST /api/v1/sign-in 401 43 - 82.549 ms
+2025-05-22T07:19:36.223Z [INSTAGRAM] info: POST /api/v1/sign-in 200 902 - 87.866 ms
+2025-05-22T07:20:20.001Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 449 - 10.872 ms
+2025-05-22T07:34:23.224Z [INSTAGRAM] info: POST /api/v1/refresh-token 409 42 - 4.197 ms
+2025-05-22T07:34:45.943Z [INSTAGRAM] info: POST /api/v1/sign-in 200 902 - 93.078 ms
+2025-05-22T07:34:55.923Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 449 - 6.475 ms
+2025-05-22T07:35:06.658Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 449 - 7.654 ms
+2025-05-22T07:35:56.370Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 449 - 4.216 ms
+2025-05-22T07:36:10.174Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 449 - 5.911 ms
+2025-05-22T07:36:25.418Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 449 - 6.325 ms
+2025-05-22T07:37:31.067Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 449 - 8.239 ms
+2025-05-22T07:44:17.949Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 449 - 17.814 ms
+2025-05-22T07:56:42.955Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 449 - 17.726 ms
+2025-05-22T07:57:25.184Z [INSTAGRAM] info: POST /api/v1/refresh-token 409 42 - 3.348 ms
+2025-05-22T07:59:56.693Z [INSTAGRAM] info: POST /api/v1/sign-in 200 902 - 114.815 ms
+2025-05-22T08:08:59.456Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 449 - 6.252 ms
+2025-05-22T08:09:59.578Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 449 - 5.223 ms
+2025-05-22T08:10:10.531Z [INSTAGRAM] info: POST /api/v1/sign-out 200 50 - 4.983 ms
+2025-05-22T08:10:28.617Z [INSTAGRAM] info: POST /api/v1/refresh-token 400 44 - 0.342 ms
+2025-05-22T08:11:05.067Z [INSTAGRAM] info: POST /api/v1/refresh-token 400 44 - 0.480 ms
+2025-05-22T08:11:31.487Z [INSTAGRAM] info: POST /api/v1/sign-up 201 774 - 89.316 ms
+2025-05-22T08:12:29.036Z [INSTAGRAM] info: GET /api/v1/uploadProfilePic 404 162 - 11.198 ms
+2025-05-22T08:12:35.896Z [INSTAGRAM] error: jwt expired
+2025-05-22T08:12:35.897Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 401 47 - 7.148 ms
+2025-05-22T08:12:43.227Z [INSTAGRAM] info: POST /api/v1/sign-in 200 902 - 61.850 ms
+2025-05-22T08:13:01.062Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 418 - 72.305 ms
+2025-05-22T08:13:56.692Z [INSTAGRAM] info: GET /favicon.ico 404 150 - 0.663 ms
+2025-05-22T08:14:25.908Z [INSTAGRAM] info: GET /api/v1/check-username/dev.nirajpatil 200 45 - 3.529 ms
+2025-05-22T08:14:51.723Z [INSTAGRAM] info: GET /api/v1/check-username/%3Eniraj%3E%3E 404 49 - 3.714 ms
+2025-05-22T08:28:38.192Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 445 - 5.381 ms
+2025-05-22T08:35:03.920Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 445 - 8.722 ms
+2025-05-22T08:37:20.959Z [INSTAGRAM] info: GET /api/v1/check-username/dev.nirajpatil 200 45 - 3.611 ms
+2025-05-22T08:37:40.384Z [INSTAGRAM] info: GET /api/v1/check-username/dev.niraj 200 45 - 2.198 ms
+2025-05-22T08:37:55.160Z [INSTAGRAM] info: GET /api/v1/check-username/%3Eniraj%3E%3E 404 49 - 3.621 ms
+2025-05-22T08:41:50.459Z [INSTAGRAM] info: POST /api/v1/sign-in 404 41 - 4.077 ms
+2025-05-22T08:48:00.701Z [INSTAGRAM] info: POST /api/v1/sign-in 200 902 - 85.617 ms
+2025-05-22T08:48:30.860Z [INSTAGRAM] info: POST /api/v1/refresh-token 401 40 - 0.900 ms
+2025-05-22T08:57:37.185Z [INSTAGRAM] info: POST /api/v1/refresh-token 401 40 - 2.261 ms
+2025-05-22T08:57:45.088Z [INSTAGRAM] info: POST /api/v1/sign-in 404 41 - 2.964 ms
+2025-05-22T08:57:49.528Z [INSTAGRAM] info: POST /api/v1/sign-in 404 41 - 2.819 ms
+2025-05-22T08:58:01.687Z [INSTAGRAM] info: POST /api/v1/sign-in 200 902 - 83.127 ms
+2025-05-22T08:58:50.815Z [INSTAGRAM] info: POST /api/v1/refresh-token 401 40 - 1.605 ms
+2025-05-22T08:58:53.439Z [INSTAGRAM] info: POST /api/v1/refresh-token 401 40 - 0.344 ms
+2025-05-22T08:59:09.743Z [INSTAGRAM] info: POST /api/v1/refresh-token 401 40 - 0.556 ms
+2025-05-22T08:59:34.836Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 449 - 3.976 ms
+2025-05-22T09:13:47.471Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 445 - 9.912 ms
+2025-05-22T09:14:10.368Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 445 - 6.042 ms
+2025-05-22T09:40:07.096Z [INSTAGRAM] error: jwt expired
+2025-05-22T09:40:07.098Z [INSTAGRAM] info: GET /api/v1/check-username/Niraj_patil 401 47 - 2.422 ms
+2025-05-22T09:40:16.804Z [INSTAGRAM] error: jwt expired
+2025-05-22T09:40:16.805Z [INSTAGRAM] info: GET /api/v1/check-username/Niraj99 401 47 - 1.752 ms
+2025-05-22T09:40:21.429Z [INSTAGRAM] error: jwt expired
+2025-05-22T09:40:21.430Z [INSTAGRAM] info: GET /api/v1/check-username/Niraj99 401 47 - 0.777 ms
+2025-05-22T09:40:43.366Z [INSTAGRAM] error: jwt expired
+2025-05-22T09:40:43.367Z [INSTAGRAM] info: GET /api/v1/check-username/Niraj99 401 47 - 1.510 ms
+2025-05-22T09:40:49.161Z [INSTAGRAM] error: jwt expired
+2025-05-22T09:40:49.162Z [INSTAGRAM] info: GET /api/v1/check-username/Niraj9 401 47 - 0.842 ms
+2025-05-22T09:41:17.165Z [INSTAGRAM] error: jwt expired
+2025-05-22T09:41:17.167Z [INSTAGRAM] info: GET /api/v1/check-username/niraj9 401 47 - 2.036 ms
+2025-05-22T09:41:27.888Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 445 - 6.944 ms
+2025-05-22T09:41:54.827Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 219.025 ms
+2025-05-22T09:42:52.801Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 154.311 ms
+2025-05-22T09:44:46.957Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 195.056 ms
+2025-05-22T09:44:47.031Z [INSTAGRAM] info: POST /api/v1/registration 404 159 - 0.133 ms
+2025-05-22T09:46:02.644Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 230.768 ms
+2025-05-22T09:46:02.708Z [INSTAGRAM] info: POST /api/v1/registration 404 159 - 0.200 ms
+2025-05-22T09:47:25.752Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 188.102 ms
+2025-05-22T09:47:25.866Z [INSTAGRAM] info: POST /api/v1/registration 404 159 - 0.295 ms
+2025-05-22T09:47:37.798Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 226.811 ms
+2025-05-22T09:47:37.881Z [INSTAGRAM] info: POST /api/v1/registration 404 159 - 0.331 ms
+2025-05-22T09:47:43.511Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 235.589 ms
+2025-05-22T09:47:43.573Z [INSTAGRAM] info: POST /api/v1/registration 404 159 - 0.206 ms
+2025-05-22T09:47:49.343Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 215.865 ms
+2025-05-22T09:47:49.413Z [INSTAGRAM] info: POST /api/v1/registration 404 159 - 0.190 ms
+2025-05-22T09:47:52.649Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 174.279 ms
+2025-05-22T09:47:52.729Z [INSTAGRAM] info: POST /api/v1/registration 404 159 - 0.352 ms
+2025-05-22T09:47:56.063Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 187.320 ms
+2025-05-22T09:47:56.105Z [INSTAGRAM] info: POST /api/v1/registration 404 159 - 0.160 ms
+2025-05-22T09:48:00.364Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 201.723 ms
+2025-05-22T09:48:00.421Z [INSTAGRAM] info: POST /api/v1/registration 404 159 - 0.188 ms
+2025-05-22T09:49:00.316Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 210.578 ms
+2025-05-22T09:49:00.378Z [INSTAGRAM] info: PATCH /api/v1/registration 404 41 - 2.436 ms
+2025-05-22T09:49:37.866Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T09:49:37.874Z [INSTAGRAM] info: MongoDB connected
+2025-05-22T09:49:42.660Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T09:49:42.664Z [INSTAGRAM] info: MongoDB connected
+2025-05-22T09:49:44.607Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T09:49:44.612Z [INSTAGRAM] info: MongoDB connected
+2025-05-22T09:51:04.245Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T09:51:04.250Z [INSTAGRAM] info: MongoDB connected
+2025-05-22T09:51:10.982Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 207.819 ms
+2025-05-22T09:51:11.041Z [INSTAGRAM] error: profilePic is not defined
+2025-05-22T09:51:11.041Z [INSTAGRAM] info: PATCH /api/v1/registration 500 48 - 1.264 ms
+2025-05-22T09:51:20.311Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T09:51:20.316Z [INSTAGRAM] info: MongoDB connected
+2025-05-22T09:51:22.289Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 181.740 ms
+2025-05-22T09:51:22.349Z [INSTAGRAM] info: PATCH /api/v1/registration 404 41 - 3.443 ms
+2025-05-22T09:51:44.565Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T09:51:44.569Z [INSTAGRAM] info: MongoDB connected
+2025-05-22T09:51:47.946Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T09:51:47.950Z [INSTAGRAM] info: MongoDB connected
+2025-05-22T09:51:49.379Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 232.754 ms
+2025-05-22T09:51:49.444Z [INSTAGRAM] info: PATCH /api/v1/registration 404 41 - 3.956 ms
+2025-05-22T09:52:22.856Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 225.089 ms
+2025-05-22T09:52:22.923Z [INSTAGRAM] info: PATCH /api/v1/registration 404 41 - 3.167 ms
+2025-05-22T09:52:24.410Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 167.658 ms
+2025-05-22T09:52:24.461Z [INSTAGRAM] info: PATCH /api/v1/registration 404 41 - 1.453 ms
+2025-05-22T09:53:40.965Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T09:53:40.970Z [INSTAGRAM] info: MongoDB connected
+2025-05-22T09:53:41.544Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T09:53:41.548Z [INSTAGRAM] info: MongoDB connected
+2025-05-22T09:54:03.103Z [INSTAGRAM] info: POST /api/v1/refresh-token 409 42 - 12.430 ms
+2025-05-22T09:54:20.271Z [INSTAGRAM] info: POST /api/v1/sign-in 200 902 - 87.371 ms
+2025-05-22T09:54:31.434Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 533 - 8.755 ms
+2025-05-22T09:54:49.601Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 63 - 191.308 ms
+2025-05-22T09:54:49.698Z [INSTAGRAM] info: PATCH /api/v1/registration 404 41 - 4.771 ms
+2025-05-22T09:55:26.360Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T09:55:26.364Z [INSTAGRAM] info: MongoDB connected
+2025-05-22T09:55:46.307Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T09:55:46.312Z [INSTAGRAM] info: MongoDB connected
+2025-05-22T09:55:46.929Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T09:55:46.933Z [INSTAGRAM] info: MongoDB connected
+2025-05-22T09:55:47.128Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T09:55:47.585Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T09:55:47.590Z [INSTAGRAM] info: MongoDB connected
+2025-05-22T09:56:08.050Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 449 - 21.455 ms
+2025-05-22T09:56:18.076Z [INSTAGRAM] info: POST /api/v1/refresh-token 409 42 - 5.218 ms
+2025-05-22T09:56:33.111Z [INSTAGRAM] info: POST /api/v1/sign-in 200 902 - 82.090 ms
+2025-05-22T09:56:41.688Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 545 - 8.346 ms
+2025-05-22T09:57:02.137Z [INSTAGRAM] info: POST /api/v1/uploadProfilePic 201 418 - 183.869 ms
+2025-05-22T09:57:02.304Z [INSTAGRAM] info: PATCH /api/v1/registration 200 418 - 6.002 ms
+2025-05-22T09:57:26.860Z [INSTAGRAM] info: POST /api/v1/refresh-token 200 545 - 7.019 ms
+2025-05-22T10:08:57.022Z [INSTAGRAM] info: POST /api/v1/sign-in 200 901 - 86.655 ms
+2025-05-22T10:09:26.211Z [INSTAGRAM] info: POST /api/v1/sign-in 200 901 - 72.177 ms
+2025-05-22T10:10:11.209Z [INSTAGRAM] info: POST /api/v1/sign-in 200 901 - 73.850 ms
+2025-05-22T10:10:12.220Z [INSTAGRAM] info: POST /api/v1/sign-in 200 901 - 84.353 ms
+2025-05-22T10:10:13.058Z [INSTAGRAM] info: POST /api/v1/sign-in 200 901 - 83.265 ms
+2025-05-22T10:16:26.922Z [INSTAGRAM] info: POST /api/v1/sign-in 200 901 - 86.188 ms
+2025-05-22T10:18:58.065Z [INSTAGRAM] info: Server is listening on port 3000
+2025-05-22T10:18:58.069Z [INSTAGRAM] info: MongoDB connected

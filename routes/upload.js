@@ -12,4 +12,8 @@ router.post(
   controller.uploadImages
 );
 
+
+router.post('/uploadProfilePic', protect, upload.single("image"), controller.uploadSingleImage);
+
+
 module.exports = router;

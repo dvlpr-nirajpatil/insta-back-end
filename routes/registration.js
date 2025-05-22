@@ -14,4 +14,10 @@ router.patch(
   controller.storeRegistration
 );
 
+router.get(
+  "/check-username/:userName",
+  protect,
+  controller.checkUsernameAvailable
+);
+
 module.exports = router;
